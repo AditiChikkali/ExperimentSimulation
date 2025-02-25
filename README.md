@@ -1,4 +1,6 @@
 # BlueskyExperimentSimulation
+![image](https://github.com/user-attachments/assets/9d8e0f90-25f9-4807-8e07-7739ea2d84d2)
+
 # Experiment Data Visualization Project 🚀
 
 This project collects **simulated experiment data** using **Bluesky**, stores it in **AWS DynamoDB**, and visualizes it using **React and Chart.js**.
