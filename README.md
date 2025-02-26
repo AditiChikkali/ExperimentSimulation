@@ -10,8 +10,8 @@ This project collects **simulated experiment data** using **Bluesky**, stores it
 
 ## 🛠️ Technologies Used
 - **Frontend**: React.js, Chart.js, Bootstrap
-- **Backend**: Flask, Bluesky, DynamoDB, Boto3
-- **Deployment**: GitHub Pages (Frontend), AWS DynamoDB (Backend)
+- **Backend**: Flask, Bluesky, DynamoDB, Boto3, AWS DynamoDB (Backend)
+
 
 ## 🚀 How to Run Locally
 ### **Backend**
