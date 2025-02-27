@@ -1,0 +1,8 @@
+boto3
+pandas
+flask
+bluesky
+ophyd
+numpy
+pyyaml
+python-dotenv
