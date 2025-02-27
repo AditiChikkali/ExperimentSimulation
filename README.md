@@ -1,5 +1,6 @@
 # BlueskyExperimentSimulation
-![image](https://github.com/user-attachments/assets/9d8e0f90-25f9-4807-8e07-7739ea2d84d2)
+![image](https://github.com/user-attachments/assets/989ffdc3-5879-4a50-a1fa-7f0c2e22f5ec)
+
 
 # Experiment Data Visualization Project 🚀
 
